@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\ayushpal\\.nuget\\packages\\": {},
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayushpal\\ngt-final\\demo-jenkins-job\\demo-jenkins-job\\demo-jenkins-job.csproj",
-      "projectName": "demo-jenkins-job",
-      "projectPath": "C:\\Users\\ayushpal\\ngt-final\\demo-jenkins-job\\demo-jenkins-job\\demo-jenkins-job.csproj",
+      "projectUniqueName": "C:\\Users\\ayushpal\\ngt-final\\hello-world-6-jenkins\\hello-world-6-jenkins\\hello-world-6-jenkins.csproj",
+      "projectName": "hello-world-6-jenkins",
+      "projectPath": "C:\\Users\\ayushpal\\ngt-final\\hello-world-6-jenkins\\hello-world-6-jenkins\\hello-world-6-jenkins.csproj",
       "packagesPath": "C:\\Users\\ayushpal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayushpal\\ngt-final\\demo-jenkins-job\\demo-jenkins-job\\obj\\",
+      "outputPath": "C:\\Users\\ayushpal\\ngt-final\\hello-world-6-jenkins\\hello-world-6-jenkins\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -29,15 +29,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -48,8 +48,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
